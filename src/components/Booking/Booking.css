@@ -1,0 +1,38 @@
+.bg-1{
+    background: url('../../Image/Rectangle\ 1.png');
+            background-color: rgba(0, 0, 0, 0.35);
+            background-blend-mode:darken;
+            background-size: cover;
+            background-repeat:no-repeat;
+            background-position: center;
+            padding-bottom: 90px;
+            color: white;
+            
+           
+}
+.bg-2{
+    background: url('../../Image/Sajek.png');
+    background-color: rgba(0, 0, 0, 0.35);
+    background-blend-mode:darken;
+    background-size: cover;
+    background-repeat:no-repeat;
+   padding-bottom: 160px;
+   color: white;
+    
+}
+.bg-3{
+    background: url('../../Image/sundorbon.png');
+    background-color: rgba(0, 0, 0, 0.35);
+    background-blend-mode:soft-light;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 160px;
+    color: white;
+}
+.booking-margin{
+    padding: 200px 0 0 100px;
+}
+input{
+    width: 200px;
+}

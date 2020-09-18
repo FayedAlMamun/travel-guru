@@ -1,0 +1,71 @@
+.bg-home{
+    background-image: url('../../Image/Rectangle\ 1.png');
+    background-color:rgb(16, 41, 61);
+    background-blend-mode: soft-light;
+    background-size: cover;
+    background-repeat:no-repeat;
+    color:white;
+    padding: 20px 0px 150px 20px;
+   
+}
+.btn-home{
+    padding: 10px;
+    background-color: goldenrod;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;}
+    .card-1{
+        background: url('../../Image/Rectangle\ 1.png');
+        background-color: rgba(0, 0, 0, 0.35);
+        background-blend-mode:darken;
+        background-size: cover;
+        background-repeat:no-repeat;
+        background-position: center;
+        border: 1px solid yellow !important ;
+        border-radius: 10px !important;
+        margin-left: 20px;
+        height: 400px;
+        width:13rem;
+    
+        
+}
+.card-body h3{
+        padding-top: 300px;
+        font-weight: 900;
+        color: white;
+}
+.card-2{
+    background: url('../../Image/Sajek.png');
+    background-color: rgba(0, 0, 0, 0.35);
+    background-blend-mode:darken;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid yellow !important ;
+    border-radius: 10px !important;
+    margin-left: 20px;
+    height: 400px;
+    width:13rem;
+
+    
+}
+.card-3{
+    background: url('../../Image/sundorbon.png');
+    background-color: rgba(0, 0, 0, 0.35);
+    background-blend-mode:darken;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid yellow !important ;
+    border-radius: 10px !important;
+    margin-left: 20px;
+    height: 400px;
+    width:13rem;
+    
+   
+
+    
+}
+.home-margin{
+    margin-top: 100px;
+}

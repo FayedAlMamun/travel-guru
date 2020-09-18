@@ -1,0 +1,45 @@
+
+.logo{
+        width: 150px;
+        height: 80px;
+        margin-right: 50px;
+        
+}
+.header{
+        margin:0px 0px 0 100px;
+        
+        
+}
+input{
+      background-color: lightgray;
+      width: 250px;
+      opacity: .8;
+      border-radius: 5px;
+      height: 40px;
+      
+}
+input::placeholder{
+        color: black;
+        font-weight: 600;
+
+}
+nav a{
+        color: white;
+        margin: 50px;
+        padding: 5px;
+        text-decoration: none;
+    }
+    .btn-home{
+        padding: 10px;
+        background-color: goldenrod;
+        height: 50px;
+        width: 150px;
+        border-radius: 5px;}
+    nav a:hover{
+            text-decoration: none;
+            color: gray;
+            background-color: rgb(109, 86, 126);
+            border-radius: 10px;
+    }
+   
+ 
