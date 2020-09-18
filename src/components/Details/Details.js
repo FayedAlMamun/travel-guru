@@ -6,10 +6,10 @@ import './Details.css';
 const Details = () => {
     return (
         <div className='bg-home'>
-             <div className="row home-margin">
+            <div className="row home-margin">
                 <div className="col-md-6 container">
                     <h1>COX'S BAZAR</h1>
-                    <p>p ipsum dolor sit amet consectetur adipisicing elit. Vero, quam. Neque voluptate accusamus placeat quibusdam earum, dolorum debitis eos! Sapiente quae sint perspiciatis. Nisi ab dolores magnam deserunt. Unde, repudiandae!Repudiandae ipsum et rem, eveniet odio officiis quaerat accusamus nesciunt sapiente mollitia tempora ratione beatae voluptates voluptatibus quidem accusantium dolorum enim labore deleniti, molestias ea veritatis ex. Tempora, veritatis odit!</p>
+                    <p>Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.</p>
                     <button className='btn-home'>Booking →</button>
                 </div>
                 <div className="col-md-6 container">
